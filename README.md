@@ -64,6 +64,7 @@ spark-ventes-tp/ ├── src/ │ └── main/ │ └── java/ │ └�
 ## Captures d'écran
 
 | Total ventes par ville | Total ventes par ville et par année | 
+|---|---|
 | ![](./captures/total_ventes_per_ville.png) | ![](./captures/total_ventes_per_ville_annee.png) | 
 
 ## ▶️ Instructions d’Exécution
