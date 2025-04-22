@@ -1,7 +1,7 @@
 # 🧠 Activité Pratique : Traitement parallèle et distribué avec Apache Spark en Java
 
 Ce dépôt contient la solution de l'activité pratique portant sur le traitement parallèle de données avec le framework **Apache Spark**, en utilisant le langage **Java**.  
-Ce TP est réalisé dans le cadre du cours de **Big Data / Traitement parallèle** dispensé par **Mr YOUSSFI Mohamed**.
+Ce TP est réalisé dans le cadre du cours de **Big Data** dispensé par **Mr Abdelmajid BOUSSELHAM**.
 
 ---
 
