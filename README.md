@@ -70,7 +70,7 @@ spark-ventes-tp/ ├── src/ │ └── main/ │ └── java/ │ └�
 ## ▶️ Instructions d’Exécution
 1. **Cloner le dépôt** :
    ```bash
-      git clone https://github.com/votre-utilisateur/tp-ApacheSpark.git
+      git clone https://github.com/ouss-issib/tp-ApacheSpark.git
       
 2. Naviguer dans le répertoire du dépôt :
    ```bash
